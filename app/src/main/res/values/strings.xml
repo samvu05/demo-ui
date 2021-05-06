@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoUI</string>
+    <string name="video_trimmer">VIDEO TRIMMER</string>
+    <string name="txt_create_now">Tạo ngay</string>
+    <string name="txt_video_timmer">VIDEO TRIMMER</string>
+    <string name="txt_top_features">Top Features</string>
+    <string name="txt_save_gallery">Save Gallery</string>
+    <string name="txt_new_sticker">New Sticker</string>
+    <string name="txt_new_theme">New themes</string>
+    <string name="txt_video_1_a">video_1_a</string>
+    <string name="txt_view_all">View all</string>
+    <string name="txt_christmas">Christmas</string>
+</resources>
